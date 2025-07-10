@@ -6,8 +6,8 @@ This project is a web-based **Student Report Card** developed as part of my inte
 
 The **Namo Scheme** is a landmark educational initiative by the Government of Gujarat, aiming to improve educational access, especially for girls and economically disadvantaged students. It comprises several sub-schemes, two of which are:
 
-Report Design : https://repo-sumit.github.io/Namo_Scheme-School_Report_Card/
-
+Report Design : [https://repo-sumit.github.io/Namo_Scheme-School_Report_Card/
+](https://repo-sumit.github.io/Namo_Scheme-School_Report_Card/)
 ### 📘 Namo Lakshmi Yojana
 - Targets female students from economically weaker backgrounds.
 - Provides direct financial aid to encourage continued education in higher secondary school.
