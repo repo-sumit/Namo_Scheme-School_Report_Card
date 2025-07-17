@@ -8,6 +8,10 @@ The **Namo Scheme** is a landmark educational initiative by the Government of Gu
 
 Report Design : [https://repo-sumit.github.io/Namo_Scheme-School_Report_Card/
 ](https://repo-sumit.github.io/Namo_Scheme-School_Report_Card/)
+
+Report Design : [https://repo-sumit.github.io/Namo_Scheme-School_Report_Card/
+]([https://repo-sumit.github.io/Namo_Scheme-School_Report_Card/](https://www.figma.com/design/7AWHPRNUkcW4QuFSBqIUqI/Namo-Scheme-School-Payment-Report?node-id=0-1&t=6kLat31VadgvqZpD-1))
+
 ### 📘 Namo Lakshmi Yojana
 - Targets female students from economically weaker backgrounds.
 - Provides direct financial aid to encourage continued education in higher secondary school.
